@@ -6,4 +6,8 @@ Adding some changes to the "Test" file to see if commit ID is changed
 Adding some changes to the "Master" file to see if commit ID is changed
 Adding some changes to the "Test" file to see if commit ID is changing
 github change
+<<<<<<< HEAD
 Doing local change in local repos
+=======
+github change directly in github
+>>>>>>> c1bc2151a82b7518629b5c0bf12e93c2804aed23
